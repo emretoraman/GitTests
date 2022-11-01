@@ -6,6 +6,6 @@ Console.WriteLine("Some other changes on original repo");
 
 Console.WriteLine("Some feature on forked repo");
 
-Console.WriteLine("Feature1");
+Console.WriteLine("Feature1 fixed");
 
 Console.WriteLine("Feature2");
